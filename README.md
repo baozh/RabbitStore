@@ -1,2 +1,2 @@
 # RabbitStore
-Yet another kv store.
+Yet another distributed kv store.
